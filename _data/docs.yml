@@ -1,11 +1,11 @@
-- title: Getting Started
+- title: Cuenta de Isolaatti
   docs:
   - home
-  - themes
-  - customization
+  - account/password_recovery
+  - account/password_reset
 
-- title: Examples
+- title: Uso básico
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - basics/posting_discussions
+  - basics/use_markdown
+  - basics/audio_recordings

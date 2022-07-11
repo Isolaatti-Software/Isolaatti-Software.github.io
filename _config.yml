@@ -8,6 +8,7 @@ lang: es-MX
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: https://isolaatti-software.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/Isolaatti-Software/Isolaatti-Software.github.io
+git_edit_address: https://github.com/Isolaatti-Software/Isolaatti-Software.github.io/blob/main
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
