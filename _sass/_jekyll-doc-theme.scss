@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 html {
     position: relative;
     min-height: 100%;
@@ -59,4 +59,12 @@ html {
   .navbar-form .has-feedback .form-control-feedback{
     top:10px
   }
-  
+  i.isolaatti-icon::after {
+    content: "Is";
+    font-family: 'Zen Dots', serif;
+    color: #eddff6;
+    font-size: 40px;
+    text-shadow: -3px 4px #6529a4;
+    text-decoration: none;
+    filter: drop-shadow(-10px 16px 50px rgb(62, 0, 99));
+  }
